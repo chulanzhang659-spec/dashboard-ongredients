@@ -1,0 +1,126 @@
+{
+  "competitor_id": "pramy",
+  "platform": "抖音",
+  "shop_name": "PRAMY柏瑞美官方旗舰店",
+  "captured_at": "2026-10-14 14:57—15:48 +08:00",
+  "capture_status": "partial_capture",
+  "scope": "抖音App官方账号进入店铺，销量排序TOP5列表及详情已保存；第1、2、4款已核到选中SKU，第3款规格网络异常，第5款无独立规格入口。截图人工核读，uiautomator失败未采用旧树。",
+  "products": [
+    {
+      "rank": 1,
+      "product_id": null,
+      "product_url": null,
+      "title": "PRAMY/柏瑞美定妆喷雾控油保湿快速定妆防水防汗防蹭便携带粉彩风",
+      "sku": "柔焦雾面（黑瓶）100ml*1瓶",
+      "selected_sku_display_price": 31.9,
+      "price_before_coupon": 39.9,
+      "price_label": "当前账号所选SKU券后价，未结算",
+      "coupon_conditions": "平台券立减8元；限购5件；适用资格按当前账号展示，未领取或下单。",
+      "gift_copy": "主图：买单瓶赠洗脸巾（10片/包）×1；买组合装两瓶赠洗脸巾（10片/包）×1＋氨基酸洁面乳65g×1。",
+      "cumulative_sold_label": "已售1000万+",
+      "link_status": "详情可访问，未取得稳定商品链接",
+      "additional_verified_skus": [
+        {
+          "sku": "柔焦雾面（黑瓶）100ml*2瓶",
+          "selected_sku_display_price": 71.8,
+          "price_before_coupon": 79.8,
+          "evidence": "pramy-black2.png"
+        }
+      ],
+      "evidence": [
+        "pramy-sorted.png",
+        "pramy-r1-offer.png",
+        "pramy-select.png",
+        "pramy-black2.png"
+      ]
+    },
+    {
+      "rank": 2,
+      "product_id": null,
+      "product_url": null,
+      "title": "PRAMY柏瑞美&WAKUKU联名定妆喷雾控油保湿防水防汗两瓶装快速定妆",
+      "sku": "[强推!适用大部分肤质!] 柔焦雾面（黑瓶）100ml*2",
+      "selected_sku_display_price": 81.9,
+      "detail_display_price": 81.9,
+      "price_label": "当前账号选中SKU券后价，未结算；2026-10-14 15:35核验",
+      "coupon_conditions": "当前售价89.9元减8元平台新人券=81.9元，仅当前账号所见；主图立减59.8元不再重复扣减。赠品明细显示有效期至2027.09.08 23:59，后续条件文字被截断，未推断。",
+      "gift_copy": "选中规格优惠明细：买就送1件赠品，30ml小喷 黑（自播）×1。主图：联名款定制喷雾30ml×1，拍1发3；柔焦雾面款瓶身图案随机发货。",
+      "cumulative_sold_label": "已售500万+",
+      "link_status": "详情可访问，未取得稳定商品链接",
+      "evidence": [
+        "pramy-back-list.png",
+        "pramy-r2-offer.png",
+        "step4-resume.png",
+        "pramy-portrait.png",
+        "pramy-r2-gift-name.png"
+      ]
+    },
+    {
+      "product_id": null,
+      "product_url": null,
+      "link_status": "App详情可访问，未取得稳定商品链接",
+      "coupon_conditions": "页面显示平台券立减8元；当前账号优惠，不是普遍到手价，未下单。",
+      "rank": 3,
+      "title": "【金靖同款】PRAMY柏瑞美大码补光蜜粉散粉定妆保湿控油粉彩风",
+      "sku": null,
+      "selected_sku_display_price": null,
+      "detail_display_price": 51.9,
+      "price_before_coupon": 59.9,
+      "price_label": "详情券后展示价；规格页网络异常，刷新一次仍失败，未核到选中规格",
+      "gift_copy": null,
+      "gift_reason": "详情主图未取得明确赠品承诺，规格页网络异常；不标无赠品",
+      "cumulative_sold_label": "已售200万+",
+      "evidence": [
+        "pramy-list-portrait.png",
+        "pramy-r3-detail.png",
+        "pramy-r3-refresh.png"
+      ]
+    },
+    {
+      "product_id": null,
+      "product_url": null,
+      "link_status": "App详情可访问，未取得稳定商品链接",
+      "coupon_conditions": "页面显示平台券立减8元；当前账号优惠，不是普遍到手价，未下单。",
+      "rank": 4,
+      "title": "PRAMY/柏瑞美定妆喷雾快速定妆保湿补水控油两瓶装便携带粉彩风",
+      "sku": "柔焦雾面（黑瓶）100ml*2（主播强烈推荐款）",
+      "selected_sku_display_price": 81.9,
+      "price_before_coupon": 89.9,
+      "price_label": "当前账号选中SKU券后价，未结算",
+      "gift_copy": "主图拍1发3；选中规格图明确：后台保湿定妆喷雾（柔焦雾面）100ml×2＋定妆喷雾30ml×1。",
+      "cumulative_sold_label": "已售200万+",
+      "evidence": [
+        "pramy-list-r5.png",
+        "pramy-r4-detail.png",
+        "pramy-r4-skus.png",
+        "pramy-r4-closed.png"
+      ]
+    },
+    {
+      "product_id": null,
+      "product_url": null,
+      "link_status": "App详情可访问，未取得稳定商品链接",
+      "coupon_conditions": "页面显示平台券立减8元；当前账号优惠，不是普遍到手价，未下单。",
+      "rank": 5,
+      "title": "PRAMY/柏瑞美大码黄油保湿妆前乳舒缓持妆24小时服帖抗暗沉粉彩风",
+      "sku": null,
+      "product_spec_from_main_image": "230ml",
+      "selected_sku_display_price": null,
+      "detail_display_price": 61.9,
+      "price_before_coupon": 69.9,
+      "price_label": "详情券后展示价；主图230ml，页面未显示独立规格入口，不冒充已选SKU价",
+      "gift_copy": "主图：赠大码黄油保湿妆前乳2ml×2。",
+      "cumulative_sold_label": "已售100万+",
+      "evidence": [
+        "pramy-list-r5.png",
+        "pramy-r5-detail.png"
+      ]
+    }
+  ],
+  "missing": [
+    "第3款规格及赠品详情：网络异常",
+    "第5款独立选中规格回显：详情未显示规格入口",
+    "5款稳定商品链接/商品ID",
+    "第二个可比较时点快照"
+  ]
+}

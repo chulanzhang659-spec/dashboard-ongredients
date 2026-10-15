@@ -1,0 +1,119 @@
+{
+  "competitor_id": "pramy",
+  "platform": "天猫",
+  "shop_name": "柏瑞美旗舰店",
+  "captured_at": "2026-10-14T11:52:32.729Z",
+  "capture_status": "partial_capture",
+  "scope": "销量排序TOP5详情、选中SKU价及海报均已采集",
+  "products": [
+    {
+      "rank": 1,
+      "title": "PRAMY/柏瑞美定妆喷雾持久定妆保湿控油不易脱妆便携带",
+      "product_id": "581333547897",
+      "product_url": "https://detail.tmall.com/item.htm?id=581333547897",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=581333547897&mi_id=0000nOchvs3h4GsmwO250wVVIauGwMZ29KLYVDj10iDjWDw&ns=1&skuId=5311278656951&xxc=taobaoSearch",
+      "sku": "60ml 白加黑定妆CP-经典便携装30ml*2",
+      "selected_sku_display_price": 43.97,
+      "price_label": "当前账号选中规格展示价，优惠条件分列",
+      "gift_copy": "海报称赠洗脸巾10片装×1；是否适用于当前30ml×2便携SKU未独立说明。会员指定商品单笔实付满180元加赠散粉8g随机色；新会员24小时内可付邮领0.01元礼包，每ID一份，另含满98减9券。",
+      "coupon_conditions": "超级立减4.9元；满94减5券和10月20日晚8点满200减25仅为可再享，未计入当前价",
+      "link_status": "active",
+      "evidence": [
+        "pramy-tmall-r1-dom.json",
+        "pramy-tmall-r1-selected.png",
+        "pramy-r1-poster-1.webp"
+      ],
+      "public_evidence": [
+        "pramy-r1-poster-1.webp"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "PRAMY/柏瑞美定妆喷雾持久定妆不易脱妆定妆便携带30ml",
+      "product_id": "606301434604",
+      "product_url": "https://detail.tmall.com/item.htm?id=606301434604",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=606301434604&mi_id=0000Y5eElGy_DZJwobCIat-1qB27qOcOD4jXykL2aD7LKxc&ns=1&skuId=4249224001128&xxc=taobaoSearch",
+      "sku": "30ml 柔焦雾面\n推荐",
+      "selected_sku_display_price": 22.4,
+      "price_label": "当前账号选中规格展示价，优惠条件分列",
+      "gift_copy": "海报列会员指定商品单笔实付满180元赠散粉8g随机色；当前22.4元单件不达门槛。新会员24小时内付邮领0.01元礼包，每ID一份，另含满98减9券。",
+      "coupon_conditions": "超级立减2.5元；满94减5及未来满200减25未计入",
+      "link_status": "active",
+      "evidence": [
+        "pramy-tmall-r2-dom.json",
+        "pramy-tmall-r2-selected.png",
+        "pramy-r2-poster-1.webp"
+      ],
+      "public_evidence": [
+        "pramy-r2-poster-1.webp"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "PRAMY/柏瑞美化妆师持久定妆喷雾保湿不易脱妆控油定妆",
+      "product_id": "839914309867",
+      "product_url": "https://detail.tmall.com/item.htm?id=839914309867",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=839914309867&mi_id=0000ROXvTFvgmquF09eSs8YO3P9PGe3bpkOlpVHDIZvvzj0&ns=1&skuId=5605664705465&xxc=taobaoSearch",
+      "sku": "100ml\n推荐",
+      "selected_sku_display_price": 64.9,
+      "price_label": "当前账号选中规格展示价，优惠条件分列",
+      "gift_copy": "已读取详情及主图，未见可确认的赠品条款，赠品未知。",
+      "coupon_conditions": "超级立减10元+新客礼金5元，页面重复提示同一新客减5，不重复扣减",
+      "link_status": "active",
+      "evidence": [
+        "pramy-tmall-r3-dom.json",
+        "pramy-tmall-r3-selected.png",
+        "pramy-r3-poster-1.webp"
+      ],
+      "public_evidence": [
+        "pramy-r3-poster-1.webp"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "PRAMY/柏瑞美定妆喷雾持久定妆控油不易脱妆快乐小狗屋联名款",
+      "product_id": "777448170716",
+      "product_url": "https://detail.tmall.com/item.htm?id=777448170716",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=777448170716&mi_id=0000bpNZF3vt2ghWcqBQeAMBaoaxI1fV9GNk-NF-y5r-cY0&ns=1&skuId=5483142178114&xxc=taobaoSearch",
+      "sku": "100ml 柔焦雾面\n推荐",
+      "selected_sku_display_price": 51.8,
+      "price_label": "当前账号选中规格展示价，优惠条件分列",
+      "gift_copy": "联名海报：买单瓶赠洗脸巾×1（三款包装随机）；买双瓶另赠联名香片×1（两款随机）。当前为单瓶100ml。",
+      "coupon_conditions": "超级立减7.2元+淘金币0.9元；未来满200减25未计入",
+      "link_status": "active",
+      "evidence": [
+        "pramy-tmall-r4-dom.json",
+        "pramy-tmall-r4-selected.png",
+        "pramy-r4-poster-1.webp"
+      ],
+      "public_evidence": [
+        "pramy-r4-poster-1.webp"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "PRAMY/柏瑞美大码黄油保湿妆前乳舒缓24H服帖持妆抗暗沉",
+      "product_id": "985729889996",
+      "product_url": "https://detail.tmall.com/item.htm?id=985729889996",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=985729889996&mi_id=0000oRY3rwwUq2z7Wfahjfy8BboQodi95WuLNUgC_yXy--8&ns=1&skuId=6190334430800&xxc=taobaoSearch",
+      "sku": "230ml【用前需看官方使用方法】\n万人加购",
+      "selected_sku_display_price": 69.9,
+      "price_label": "当前账号选中规格展示价，优惠条件分列",
+      "gift_copy": "主图写赠同款试用装2ml×2；库存余量及活动截止时间未展示。",
+      "coupon_conditions": "满82减13券；未来满200减25未计入",
+      "link_status": "active",
+      "evidence": [
+        "pramy-tmall-r5-dom.json",
+        "pramy-tmall-r5-selected.png",
+        "pramy-r5-poster-1.webp"
+      ],
+      "public_evidence": [
+        "pramy-r5-poster-1.webp"
+      ]
+    }
+  ],
+  "missing": [
+    "化妆师款赠品未知；部分会员/满赠条件仅按海报披露",
+    "缺第二时点同SKU同条件快照，不计算价格变化"
+  ]
+}

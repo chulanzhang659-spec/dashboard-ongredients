@@ -1,0 +1,439 @@
+{
+  "competitor_id": "torriden",
+  "platform": "抖音",
+  "shop_name": "Torriden桃瑞丹海外旗舰店",
+  "shop_url": "https://www.douyin.com/user/MS4wLjABAAAA5G2fsHaRzuwhKDyYTPKWxF25NmuKWRoo5EatD_dG-qQ",
+  "live_url": "https://live.douyin.com/6934450929",
+  "captured_at": "2026-10-15T12:39:52+08:00",
+  "capture_status": "partial_capture",
+  "scope": "实名认证后Chrome正常读取直播列表20款价格与活动文案；列表展示顺序非销量TOP5；商品SKU和赠品条件未齐",
+  "extraction_method": "Browser Act读取当前页面可见商品卡DOM，无隐藏接口请求",
+  "products": [
+    {
+      "rank": 1,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双十一现货】Torriden桃瑞丹玻尿酸面霜舒缓补水保湿喷雾120ml",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 89.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "快速补水,告别上妆卡粉1w收藏",
+      "raw_product_card": "x55\n讲解中\n【双十一现货】Torriden桃瑞丹玻尿酸面霜舒缓补水保湿喷雾120ml\n快速补水,告别上妆卡粉1w收藏\n大促价\n¥89\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:39:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/torriden-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 2,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双十一现货】Torriden桃瑞丹玻尿酸水光喷雾120ml补水保湿清爽",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 89.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "",
+      "raw_product_card": "2\n【双十一现货】Torriden桃瑞丹玻尿酸水光喷雾120ml补水保湿清爽\n大促价\n¥89\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:39:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/torriden-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 3,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双十一现货】Torriden桃瑞丹胶原蛋白精华喷雾谷胱甘肽保湿120ml",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 119.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "一喷即可即时改善保湿 /弹力",
+      "raw_product_card": "3\n【双十一现货】Torriden桃瑞丹胶原蛋白精华喷雾谷胱甘肽保湿120ml\n一喷即可即时改善保湿 /弹力\n¥119\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:39:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/torriden-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 4,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双十一现货】Torriden桃瑞丹5重玻尿酸棉片保湿护肤80片补水精华",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 169.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "",
+      "raw_product_card": "4\n【双十一现货】Torriden桃瑞丹5重玻尿酸棉片保湿护肤80片补水精华\n¥169\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:39:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/torriden-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 5,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双十一现货】桃瑞丹积雪草爽肤棉片保湿护肤舒缓补水润肤60片/盒",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 119.0,
+      "price_label": "列表券后展示价，领取与适用资格未核验；非实际结算价",
+      "gift_copy": "敏皮舒缓精华棉片，拍1发8",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "券立减50元；券后价",
+      "promotion_copy": "敏皮舒缓精华棉片，拍1发8；券立减50元；券后价",
+      "raw_product_card": "5\n【双十一现货】桃瑞丹积雪草爽肤棉片保湿护肤舒缓补水润肤60片/盒\n敏皮舒缓精华棉片，拍1发8\n券立减50元\n券后价\n¥119\n¥169\n领券抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:39:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/torriden-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 6,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双十一现货】Torriden桃瑞丹神经酰胺滋润护唇膏保湿润唇单支",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 102.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "修护唇膏 拍1到手3件",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "修护唇膏 拍1到手3件",
+      "raw_product_card": "6\n【双十一现货】Torriden桃瑞丹神经酰胺滋润护唇膏保湿润唇单支\n修护唇膏 拍1到手3件\n¥102\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:39:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/torriden-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 7,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双十一现货】Torriden桃瑞丹胶原蛋白唇膏11ml精华丰盈滋润弹力",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 69.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "",
+      "raw_product_card": "7\n【双十一现货】Torriden桃瑞丹胶原蛋白唇膏11ml精华丰盈滋润弹力\n¥69\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:39:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/torriden-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 8,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双十一现货】Torriden桃瑞丹低分子玻尿酸安瓶精华液精华50ml/瓶",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 119.0,
+      "price_label": "列表券后展示价，领取与适用资格未核验；非实际结算价",
+      "gift_copy": "干皮补水精华加赠10ml体验装",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "券立减50元；券后价",
+      "promotion_copy": "干皮补水精华加赠10ml体验装；券立减50元；券后价",
+      "raw_product_card": "8\n【双十一现货】Torriden桃瑞丹低分子玻尿酸安瓶精华液精华50ml/瓶\n干皮补水精华加赠10ml体验装\n券立减50元\n券后价\n¥119\n¥169\n领券抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:39:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/torriden-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 9,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双十一现货】Torriden桃瑞丹玻尿酸面膜补水升级款27ml*10片/盒",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 119.0,
+      "price_label": "列表券后展示价，领取与适用资格未核验；非实际结算价",
+      "gift_copy": "水光肌面膜 拍1到手10件",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "券立减50元；券后价",
+      "promotion_copy": "水光肌面膜 拍1到手10件；券立减50元；券后价",
+      "raw_product_card": "9\n【双十一现货】Torriden桃瑞丹玻尿酸面膜补水升级款27ml*10片/盒\n水光肌面膜 拍1到手10件\n券立减50元\n券后价\n¥119\n¥169\n领券抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:39:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/torriden-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 10,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双十一现货】桃瑞丹玻尿酸面膜正品补水保湿6片装",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 89.0,
+      "price_label": "列表券后展示价，领取与适用资格未核验；非实际结算价",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "券立减50元；券后价",
+      "promotion_copy": "玻尿酸补水面膜小盒体验装；券立减50元；券后价",
+      "raw_product_card": "10\n【双十一现货】桃瑞丹玻尿酸面膜正品补水保湿6片装\n玻尿酸补水面膜小盒体验装\n券立减50元\n券后价\n¥89\n¥139\n领券抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:39:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/torriden-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 11,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双十一现货】桃瑞丹玻尿酸水润泡泡精华精华液保湿补水护肤115ml",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 178.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "10层吸收,妆容服帖打造水肌肤",
+      "raw_product_card": "11\n【双十一现货】桃瑞丹玻尿酸水润泡泡精华精华液保湿补水护肤115ml\n10层吸收,妆容服帖打造水肌肤\n¥178\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:39:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/torriden-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 12,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双十一现货】桃瑞丹低分子玻尿酸肌底液保湿补水护肤200ml升级版",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 149.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "深层保湿肌底液 拍1到手5件",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "深层保湿肌底液 拍1到手5件",
+      "raw_product_card": "12\n【双十一现货】桃瑞丹低分子玻尿酸肌底液保湿补水护肤200ml升级版\n深层保湿肌底液 拍1到手5件\n¥149\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:39:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/torriden-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 13,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双十一现货】桃瑞丹玻尿酸爽肤水湿敷保湿补水升级版大容量300ml",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 159.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "补水加倍爽肤水 拍1发6",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "补水加倍爽肤水 拍1发6",
+      "raw_product_card": "13\n【双十一现货】桃瑞丹玻尿酸爽肤水湿敷保湿补水升级版大容量300ml\n补水加倍爽肤水 拍1发6\n¥159\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:39:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/torriden-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 14,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双十一现货】Torriden桃瑞丹啫喱面霜补水保湿护肤升级版",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 139.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "",
+      "raw_product_card": "14\n【双十一现货】Torriden桃瑞丹啫喱面霜补水保湿护肤升级版\n大促价\n¥139\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:39:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/torriden-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 15,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【店播专属】Torriden桃瑞丹玻尿酸面霜水润护肤喷雾120ml补水保湿",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 145.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "",
+      "raw_product_card": "15\n【店播专属】Torriden桃瑞丹玻尿酸面霜水润护肤喷雾120ml补水保湿\n大促价\n¥145\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:39:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/torriden-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 16,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双十一现货】桃瑞丹神经酰胺滋润唇膏补水精华保湿润唇11ml/支*2",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 139.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "",
+      "raw_product_card": "16\n【双十一现货】桃瑞丹神经酰胺滋润唇膏补水精华保湿润唇11ml/支*2\n¥139\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:39:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/torriden-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 17,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双十一现货】Torriden桃瑞丹神经酰胺唇膏保湿+胶原蛋白润唇精华",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 109.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "",
+      "raw_product_card": "17\n【双十一现货】Torriden桃瑞丹神经酰胺唇膏保湿+胶原蛋白润唇精华\n大促价\n¥109\n¥119\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:39:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/torriden-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 18,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双十一现货】Torriden桃瑞丹胶原蛋白弹力泡泡精华透亮护肤115ml",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 178.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "",
+      "raw_product_card": "18\n【双十一现货】Torriden桃瑞丹胶原蛋白弹力泡泡精华透亮护肤115ml\n¥178\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:39:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/torriden-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 19,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双十一现货】Torriden桃瑞丹玻尿酸面霜补水护肤保湿喷雾120ml*2",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 179.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "两支更划算 送中样50ml",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "两支更划算 送中样50ml",
+      "raw_product_card": "19\n【双十一现货】Torriden桃瑞丹玻尿酸面霜补水护肤保湿喷雾120ml*2\n两支更划算 送中样50ml\n大促价\n¥179\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:39:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/torriden-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 20,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双十一现货】桃瑞丹积雪草舒缓泡泡精华精华液护肤平衡细腻115ml",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 178.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "",
+      "raw_product_card": "20\n【双十一现货】桃瑞丹积雪草舒缓泡泡精华精华液护肤平衡细腻115ml\n¥178\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:39:52+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/torriden-products-dom.txt"
+      ]
+    }
+  ],
+  "missing": [
+    "选中SKU及对应价格",
+    "稳定商品ID与商品链接",
+    "赠品适用规格、数量及活动限制",
+    "第二个同规格同条件快照"
+  ]
+}

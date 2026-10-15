@@ -1,0 +1,168 @@
+{
+  "competitor_id": "pramy",
+  "platform": "抖音",
+  "shop_name": "PRAMY柏瑞美官方旗舰店",
+  "shop_url": "https://www.douyin.com/user/MS4wLjABAAAAYQ1WZeZvg_DcYspxHPzHfuF3EOKAXkhDmEankNhKMgMV7JHS18GFEFg3z38mmfd4",
+  "live_url": "https://live.douyin.com/190032750173",
+  "captured_at": "2026-10-15T12:42:34+08:00",
+  "capture_status": "partial_capture",
+  "scope": "实名认证后Chrome正常读取直播列表7款价格与活动文案；列表展示顺序非销量TOP5；商品SKU和赠品条件未齐",
+  "extraction_method": "Browser Act读取当前页面可见商品卡DOM，无隐藏接口请求",
+  "products": [
+    {
+      "rank": 1,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "PRAMY柏瑞美&WAKUKU联名定妆喷雾控油保湿防水防汗两瓶装快速定妆",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 89.9,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "送同款30ml小喷雾",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "送同款30ml小喷雾",
+      "raw_product_card": "x9999+\n讲解中\nPRAMY柏瑞美&WAKUKU联名定妆喷雾控油保湿防水防汗两瓶装快速定妆\n送同款30ml小喷雾\n运费险7天无理由退货\n大促价\n¥89.9\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:42:34+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/pramy-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 2,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "PRAMY柏瑞美WAKUKU联名定妆喷雾8瓶囤货装快速定妆保湿控油粉彩风",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 169.9,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "老粉囤货装！到手8瓶！",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "老粉囤货装！到手8瓶！",
+      "raw_product_card": "2\nPRAMY柏瑞美WAKUKU联名定妆喷雾8瓶囤货装快速定妆保湿控油粉彩风\n老粉囤货装！到手8瓶！\n运费险7天无理由退货\n大促价\n¥169.9\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:42:34+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/pramy-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 3,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "PRAMY/柏瑞美定妆喷雾快速定妆保湿补水控油两瓶装便携带粉彩风",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 89.9,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "1号同款！只有包装不同！",
+      "raw_product_card": "3\nPRAMY/柏瑞美定妆喷雾快速定妆保湿补水控油两瓶装便携带粉彩风\n1号同款！只有包装不同！\n运费险7天无理由退货\n大促价\n¥89.9\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:42:34+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/pramy-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 4,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "PRAMY/柏瑞美定妆喷雾8瓶囤货装持久定妆保湿控油便携带粉彩风",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 169.9,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "经典款老粉囤货装！到手8瓶！",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "经典款老粉囤货装！到手8瓶！",
+      "raw_product_card": "4\nPRAMY/柏瑞美定妆喷雾8瓶囤货装持久定妆保湿控油便携带粉彩风\n经典款老粉囤货装！到手8瓶！\n运费险7天无理由退货\n大促价\n¥169.9\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:42:34+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/pramy-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 5,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "PRAMY/柏瑞美化妆师持妆定妆喷雾控油保湿便携带（达人专属）",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 69.9,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "升级款！36小时持妆！",
+      "raw_product_card": "5\nPRAMY/柏瑞美化妆师持妆定妆喷雾控油保湿便携带（达人专属）\n升级款！36小时持妆！\n运费险7天无理由退货\n大促价\n¥69.9\n¥89.9\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:42:34+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/pramy-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 6,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "PRAMY/柏瑞美大码黄油保湿妆前乳舒缓持妆24小时服帖粉彩风xyg",
+      "product_id": null,
+      "product_url": null,
+      "sku": "230ml【很重要：用前需看官方使用方法！！！】",
+      "selected_sku_display_price": 69.9,
+      "list_display_price": 69.9,
+      "price_label": "网页已选择规格显示价，未下单",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "",
+      "raw_product_card": "6\nPRAMY/柏瑞美大码黄油保湿妆前乳舒缓持妆24小时服帖粉彩风xyg\n运费险7天无理由退货\n大促价\n¥69.9\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:42:34+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/pramy-products-dom.txt",
+        "../patrol-chrome-20261015/pramy-primer-sku.txt"
+      ]
+    },
+    {
+      "rank": 7,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "PRAMY柏瑞美大码补光蜜粉散粉定妆保湿控油",
+      "product_id": null,
+      "product_url": null,
+      "sku": "大码补光蜜粉（柔粉色）/28g",
+      "selected_sku_display_price": 59.9,
+      "list_display_price": 59.9,
+      "price_label": "网页已选择规格显示价，未下单",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "新品双色大容量散粉",
+      "raw_product_card": "7\nPRAMY柏瑞美大码补光蜜粉散粉定妆保湿控油\n新品双色大容量散粉\n运费险7天无理由退货\n大促价\n¥59.9\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:42:34+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/pramy-products-dom.txt",
+        "../patrol-chrome-20261015/pramy-powder-sku.txt"
+      ]
+    }
+  ],
+  "missing": [
+    "选中SKU及对应价格",
+    "稳定商品ID与商品链接",
+    "赠品适用规格、数量及活动限制",
+    "第二个同规格同条件快照"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "source": "抖音App ILSO官方旗舰店 商品 销量（红色选中）",
+  "captured_at": "2026-10-13T17:49:00+08:00",
+  "capture_status": "partial_capture",
+  "scope": "销量排序前5商品卡片；逐商品SKU详情未齐",
+  "products": [
+    {
+      "rank": 1,
+      "title": "ILSO一苏黑头导出液控油去黑头毛孔深层清洁精华护肤黑头水女正品",
+      "display_price": 129,
+      "sold_display": "已售70万+",
+      "product_id": null,
+      "sku": null
+    },
+    {
+      "rank": 2,
+      "title": "ILSO一苏黑头导出液控油去黑头深层清洁毛孔护肤黑头水正品150g",
+      "display_price": 129,
+      "sold_display": "已售20万+",
+      "product_id": null,
+      "sku": null
+    },
+    {
+      "rank": 3,
+      "title": "ILSO一苏黑头导出液清洁温和去黑头收敛毛孔不刺激黑头水",
+      "display_price": 129,
+      "sold_display": "已售20万+",
+      "product_id": null,
+      "sku": null
+    },
+    {
+      "rank": 4,
+      "title": "ILSO一苏黑头导出液控油去黑头深层清洁收敛毛孔黑头水正品",
+      "display_price": 99,
+      "sold_display": "已售20万+",
+      "product_id": null,
+      "sku": null
+    },
+    {
+      "rank": 5,
+      "title": "【爆款推荐】黑头导出液+闭口水套组控油去黑头毛孔清洁zb",
+      "display_price": 139,
+      "sold_display": "已售10万+",
+      "product_id": null,
+      "sku": "导出液三件套100g*1瓶+闭口水三件套100g*1瓶",
+      "selected_sku_display_price": 198,
+      "price_label": "实付价",
+      "price_status": "规格面板显示，未下单",
+      "bundle_contents_raw": "两件三件套；具体额外赠品须进一步核验",
+      "selected_at": "2026-10-13T17:50:00+08:00",
+      "selected_evidence": [
+        "ilso_rank5_selected.png",
+        "ilso_rank5_selected.xml"
+      ]
+    }
+  ],
+  "evidence": [
+    "ilso_sales_list_1747.png",
+    "ilso_sales_mid.png",
+    "ilso_sales_fifth.png"
+  ],
+  "limits": [
+    "累计已售不是日销量",
+    "标题相近但未经商品ID核验，不合并",
+    "列表价格不等于选中SKU券后价",
+    "榜单是当时页面排序，不反推期间销售"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "source": "抖音App → PRAMY柏瑞美官方旗舰店 → 商品 → 销量排序",
+  "captured_at": "2026-10-13T10:47:00+08:00",
+  "capture_status": "partial_verified",
+  "scope": "当前可见前两条商品卡片；非完整TOP5；商品链接与SKU未核验",
+  "products": [
+    {
+      "title": "PRAMY/柏瑞美定妆喷雾控油保湿快速定妆防水防汗防蹭便携带粉彩风",
+      "display_price": 39.9,
+      "sold_display": "已售1000万+",
+      "sku": null,
+      "product_url": null,
+      "gift": null,
+      "promotion_label": null
+    },
+    {
+      "title": "PRAMY柏瑞美&WAKUKU联名定妆喷雾控油保湿防水防汗两瓶装快速定妆",
+      "display_price": 89.9,
+      "sold_display": "已售500万+",
+      "sku": null,
+      "product_url": null,
+      "gift": null,
+      "promotion_label": "送赠品（规格未核实）"
+    }
+  ],
+  "limits": [
+    "展示价格尚未逐SKU核验，不标为券后实付价",
+    "累计已售为页面区间标签，非日销量，不计算销售额",
+    "已售未包含在UI树文本内，已通过同屏截图核对",
+    "不同商品卡片可能存在同款，不按唯一商品汇总"
+  ],
+  "evidence": [
+    "pramy-sales-20261013.xml",
+    "pramy-sales-20261013.png"
+  ]
+}

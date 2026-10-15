@@ -1,0 +1,130 @@
+{
+  "competitor_id": "planner",
+  "platform": "天猫",
+  "shop_name": "PLANNER珀兰娜官方旗舰店",
+  "captured_at": "2026-10-14T17:18:58.992549+08:00",
+  "capture_status": "partial_capture",
+  "scope": "销量TOP5逐款详情与选中SKU已核验；5份截图，5款赠品图片已核读（第1款以同店同规格相同图片补充小字）",
+  "products": [
+    {
+      "rank": 1,
+      "product_id": "594272805322",
+      "product_url": "https://detail.tmall.com/item.htm?id=594272805322",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?id=594272805322&skuId=5945574192689",
+      "title": "【双11抢先购】PLANNER珀兰娜遮毛孔隐形控油妆前乳隔离霜贴贴霜",
+      "sku": "哑光柔护版【敏肌适用】单支 30ml",
+      "selected_sku_display_price": 102.0,
+      "price_label": "当前登录账号详情页选中规格展示价，未结算；列表优惠价另列",
+      "list_display_price": 69,
+      "gift_copy": "下单即赠：吸油纸便携装30张×1＋三角粉底海绵×1；选中规格截图主图与第3商品同规格清晰图片一致",
+      "coupon_conditions": "列表标示满200减25及超级立减；未领取，未核验能否叠加。选中规格页面另示超级立减23元",
+      "link_status": "active",
+      "evidence": [
+        "planner-r1-selected.png",
+        "planner-r1-state.txt",
+        "planner-r3-option7.webp"
+      ],
+      "cumulative_sold_label": "30万+人付款",
+      "public_evidence": [
+        "planner-r3-option7.webp"
+      ]
+    },
+    {
+      "rank": 2,
+      "product_id": "795379815066",
+      "product_url": "https://detail.tmall.com/item.htm?id=795379815066",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?id=795379815066&skuId=6297598919439",
+      "title": "【双11抢先购】PLANNER珀兰娜定妆粉饼清透缎光散粉蜜粉持久干皮",
+      "sku": "【经典款】清透定妆粉饼10g （不挑肤色/肤质）\n店长主推",
+      "selected_sku_display_price": 188.0,
+      "price_label": "当前登录账号详情页选中规格展示价，未结算；列表优惠价另列",
+      "list_display_price": 149,
+      "gift_copy": "下单即赠：定妆毛绒大粉扑×1＋柔绒小黑粉扑×1（内置）＋吸油纸便携装30张×1",
+      "coupon_conditions": "列表标示满200减25及超级立减；未领取，未核验能否叠加。",
+      "link_status": "active",
+      "evidence": [
+        "planner-r2-selected.png",
+        "planner-r2-dom.json",
+        "planner-r2-skuimg-6.webp"
+      ],
+      "cumulative_sold_label": "7万+人付款",
+      "public_evidence": [
+        "planner-r2-skuimg-6.webp"
+      ]
+    },
+    {
+      "rank": 3,
+      "product_id": "924642089162",
+      "product_url": "https://detail.tmall.com/item.htm?id=924642089162",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?id=924642089162&skuId=5946790069389",
+      "title": "【双11抢先购】PLANNER珀兰娜控油妆前乳遮毛孔隐形贴贴霜隔离霜",
+      "sku": "哑光经典版 单支*68%顾客选择*\n万人加购",
+      "selected_sku_display_price": 89.8,
+      "price_label": "当前登录账号详情页选中规格展示价，未结算；列表优惠价另列",
+      "list_display_price": 69,
+      "gift_copy": "下单即赠：吸油纸便携装30张×1＋三角粉底海绵×1",
+      "coupon_conditions": "列表标示满200减25及超级立减；未领取，未核验能否叠加。",
+      "link_status": "active",
+      "evidence": [
+        "planner-r3-selected.png",
+        "planner-r3-dom.json",
+        "planner-r3-skuimg-6.webp"
+      ],
+      "cumulative_sold_label": "4万+人付款",
+      "public_evidence": [
+        "planner-r3-skuimg-6.webp"
+      ]
+    },
+    {
+      "rank": 4,
+      "product_id": "591622925960",
+      "product_url": "https://detail.tmall.com/item.htm?id=591622925960",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?id=591622925960&skuId=6270269171355",
+      "title": "【双11抢先购】 PLANNER珀兰娜干皮水粉底液滋润持久油皮遮瑕小样",
+      "sku": "【干皮/混干】-2/自然肤色 【热卖色！】\n店长主推；30ml",
+      "selected_sku_display_price": 206.0,
+      "price_label": "当前登录账号详情页选中规格展示价，未结算；列表优惠价另列",
+      "list_display_price": 169,
+      "gift_copy": "下单即赠：月牙粉底刷×1＋轻柔绵软粉扑×1；粉底液刷新旧款混发",
+      "coupon_conditions": "列表标示满200减25及超级立减；未领取，未核验能否叠加。",
+      "link_status": "active",
+      "evidence": [
+        "planner-r4-selected.png",
+        "planner-r4-dom.json",
+        "planner-r4-skuimg-6.webp"
+      ],
+      "cumulative_sold_label": "2万+人付款",
+      "public_evidence": [
+        "planner-r4-skuimg-6.webp"
+      ]
+    },
+    {
+      "rank": 5,
+      "product_id": "676396568977",
+      "product_url": "https://detail.tmall.com/item.htm?id=676396568977",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?id=676396568977&skuId=6112384543534",
+      "title": "【双11抢先购】PLANNER珀兰娜妆前乳隔离补水贴贴霜干皮粉饼定妆",
+      "sku": "焕透30ml*85%顾客选择*\n万人加购",
+      "selected_sku_display_price": 99.0,
+      "price_label": "当前登录账号详情页选中规格展示价，未结算；列表优惠价另列",
+      "list_display_price": 79,
+      "gift_copy": "下单即赠：云感绵密粉扑×1；粉扑新旧款混发",
+      "coupon_conditions": "列表标示满200减25及超级立减；未领取，未核验能否叠加。",
+      "link_status": "active",
+      "evidence": [
+        "planner-r5-selected.png",
+        "planner-r5-dom.json",
+        "planner-r5-skuimg-6.webp"
+      ],
+      "cumulative_sold_label": "3000+人付款",
+      "public_evidence": [
+        "planner-r5-skuimg-6.webp"
+      ]
+    }
+  ],
+  "missing": [
+    "优惠叠加适用条件未结算验证",
+    "第二时点同规格快照尚未建立"
+  ],
+  "extraction_method": "登录后店铺销量排序、DOM选中规格及商品图片人工核读"
+}

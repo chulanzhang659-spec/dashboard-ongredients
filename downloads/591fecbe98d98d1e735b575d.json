@@ -1,0 +1,103 @@
+{
+  "competitor_id": "planner",
+  "platform": "抖音",
+  "shop_name": "PLANNER珀兰娜官方旗舰店",
+  "shop_url": "https://www.douyin.com/user/MS4wLjABAAAAVZxyGwEdikUg9PELAldJGwlefGOZWQvAA0EkS7gdK1I",
+  "live_url": "https://live.douyin.com/69665277939",
+  "captured_at": "2026-10-15T12:40:50+08:00",
+  "capture_status": "partial_capture",
+  "scope": "实名认证后Chrome正常读取直播列表4款价格与活动文案；列表展示顺序非销量TOP5；商品SKU和赠品条件未齐",
+  "extraction_method": "Browser Act读取当前页面可见商品卡DOM，无隐藏接口请求",
+  "products": [
+    {
+      "rank": 1,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双11抢先购】PLANNER珀兰娜妆前乳控油隐毛孔打底持妆隔离贴贴霜",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 69.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "明星同款，隐毛孔去油光遮细纹",
+      "raw_product_card": "x950\n讲解中\n【双11抢先购】PLANNER珀兰娜妆前乳控油隐毛孔打底持妆隔离贴贴霜\n明星同款，隐毛孔去油光遮细纹\n运费险次日发7天无理由退货\n大促价\n¥69\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:40:50+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/planner-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 2,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双11抢先购】PLANNER珀兰娜妆前乳粉饼CP套装隐毛孔清透持久控油",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 169.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "毛孔隐形，清透贴肤",
+      "raw_product_card": "2\n【双11抢先购】PLANNER珀兰娜妆前乳粉饼CP套装隐毛孔清透持久控油\n毛孔隐形，清透贴肤\n运费险7天无理由退货\n大促价\n¥169\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:40:50+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/planner-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 3,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双11抢先购】PLANNER珀兰娜控油妆前乳精华定妆喷雾组合锁妆贴肌",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 89.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "",
+      "raw_product_card": "3\n【双11抢先购】PLANNER珀兰娜控油妆前乳精华定妆喷雾组合锁妆贴肌\n运费险7天无理由退货\n¥89\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:40:50+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/planner-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 4,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双11抢先购】PLANNER珀兰娜粉底液妆前乳持久隐形毛孔干油皮",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 238.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "雾面哑光，透气持妆",
+      "raw_product_card": "4\n【双11抢先购】PLANNER珀兰娜粉底液妆前乳持久隐形毛孔干油皮\n雾面哑光，透气持妆\n运费险7天无理由退货\n¥238\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:40:50+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/planner-products-dom.txt"
+      ]
+    }
+  ],
+  "missing": [
+    "选中SKU及对应价格",
+    "稳定商品ID与商品链接",
+    "赠品适用规格、数量及活动限制",
+    "第二个同规格同条件快照"
+  ]
+}

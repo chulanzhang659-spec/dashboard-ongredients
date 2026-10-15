@@ -1,0 +1,197 @@
+[
+  {
+    "file": "C:\\Users\\12702\\Documents\\Codex\\2026-08-28\\new-chat-2\\korea-business-daily-report-main\\data\\raw\\hue\\query-impala-159949_20261001-20261009_store_daily_browseract.csv",
+    "sha256": "fb01d8abe32166e305578525fb232001a0afc631b1e37ff819397d99db69a855",
+    "use": "Hue查询159949；仅保留Ongredients行"
+  },
+  {
+    "file": "C:\\Users\\12702\\Documents\\Codex\\2026-09-20\\top-24-top-1-roi-ema\\outputs\\no_bars_0922\\面部护肤汇总V4_去柱去黄.xlsx",
+    "sha256": "e695eedf4c888d57eccaef6ddb90f5a0c196ce857f4950c9540f0795d7ca9da5",
+    "use": "已修正推广字段的历史月度经营表；不复用跨境抖音净收入→结算的错误映射；桃瑞丹两平台2025-09—2026-08品牌总览及原表类目；桃瑞丹两平台2025-09—2026-08品牌总览及原表类目"
+  },
+  {
+    "file": "C:\\Users\\12702\\Desktop\\行业分析三板斧_淘系_top品牌类目(1).xlsx",
+    "sha256": "e51bd983a3cd4a22affc0a00bffc362a97d646d5ef314b81372dd77f73ef291c",
+    "use": "选取护肤相关类目；保留源表行业口径"
+  },
+  {
+    "file": "C:\\Users\\12702\\Desktop\\行业分析三板斧_抖音_top品牌类目(1).xlsx",
+    "sha256": "8aa7b17cf1689453631365f039c9f310952bbda35618e54878bb765878623770",
+    "use": "选取护肤相关类目；保留源表行业口径"
+  },
+  {
+    "file": "C:\\Users\\12702\\Desktop\\Ongredients_竞品社媒分析.xlsx",
+    "sha256": "fc947f5e6c06cecb039a729615c3f3c1aafd4d125bd6250c1fdb0e396571051d",
+    "use": "竞品名单来源，B7:C7"
+  },
+  {
+    "file": "C:\\Users\\12702\\Documents\\Codex\\2026-08-28\\new-chat-2\\korea-business-daily-report-main\\data\\raw\\feishu\\feishu_20261009_exported_20261010_112816_chrome.csv",
+    "sha256": "e5c69fca3e8526525c1190ca31d1a366912a27baa758eb972be4f2c9ab135737",
+    "use": "2026年10月1—9日四家核心店铺运营支付渠道明细；与Hue保持独立口径"
+  },
+  {
+    "file": "C:\\Users\\12702\\Documents\\Codex\\2026-09-20\\top-24-top-1-roi-ema\\work\\field_repair_0922\\qbt_ong_items.json",
+    "sha256": "9a6f1f1586e45827cab6940d58338242a04c6f0faeb9e0fc6bb57f50226ed7e7",
+    "use": "温丽慈旗舰店历史商品身份及原链接；不作为当前销量和现价"
+  },
+  {
+    "file": "outputs\\ongredients-dashboard\\sources\\nint-ali-single-day-test.json",
+    "sha256": "90df0716884b6dde0cf6d7ed70619ceab2692ed592d006a533e3778310230e43",
+    "use": "2026-10-10已登录后台页面留存；行业粒度、店铺身份或日销售趋势实测"
+  },
+  {
+    "file": "outputs\\ongredients-dashboard\\sources\\nint-dy-granularity.json",
+    "sha256": "7104a8985cf8ceff671b61ba778e076ca45d7972f5ab0dc494aa9a0d84787478",
+    "use": "2026-10-10已登录后台页面留存；行业粒度、店铺身份或日销售趋势实测"
+  },
+  {
+    "file": "outputs\\ongredients-dashboard\\sources\\nint-dy-week-test.json",
+    "sha256": "2468b03ae74dbcefbf99a01a5fb89bdfb395d872b24a62a6a1bc32cd4b0f0ac4",
+    "use": "2026-10-10已登录后台页面留存；行业粒度、店铺身份或日销售趋势实测"
+  },
+  {
+    "file": "outputs\\ongredients-dashboard\\sources\\nint-ong-daily-20261010.json",
+    "sha256": "6fc75624c3617f77bdd3d13c69fbc9b111c1bfff31b84a32966379de950c7428",
+    "use": "2026-10-10已登录后台页面留存；行业粒度、店铺身份或日销售趋势实测"
+  },
+  {
+    "file": "sources/compass-history-20261010.json",
+    "sha256": "06fad3c473813aaea65d072ae838c63acfe8f486b3829947771fabdbba4944de",
+    "use": "原始结构化取数证据；周期与来源见文件内容"
+  },
+  {
+    "file": "sources/compass-ong-all-20261009.json",
+    "sha256": "0c7d7354e6e8338ddab55f553535bdf7bbfc51d5e39ce53e357a5c5802590ce9",
+    "use": "原始结构化取数证据；周期与来源见文件内容"
+  },
+  {
+    "file": "sources/compass-ong-core-20261009.json",
+    "sha256": "c248fc5b54f693a65e682fcba0c341cc4bc0efed26c8eff9ef752d21258db69e",
+    "use": "原始结构化取数证据；周期与来源见文件内容"
+  },
+  {
+    "file": "sources/compass-ong-cost-20261009.json",
+    "sha256": "819057bc2bc95c625598b310e365c48d01851356e63e81ed04055e739f285085",
+    "use": "原始结构化取数证据；周期与来源见文件内容"
+  },
+  {
+    "file": "sources/compass-ong-partner-20261009.json",
+    "sha256": "18ca02b4d399b22db0dad13292fc34be47e554c7fc055ee9eae7d0dddce01791",
+    "use": "原始结构化取数证据；周期与来源见文件内容"
+  },
+  {
+    "file": "sources/compass-ong-self-20261009.json",
+    "sha256": "dbfcd2c610d3252e791c4f6b39916b670cea10938bb541bb8a0f726ee692c73c",
+    "use": "原始结构化取数证据；周期与来源见文件内容"
+  },
+  {
+    "file": "sources/nint-ali-single-day-test.json",
+    "sha256": "90df0716884b6dde0cf6d7ed70619ceab2692ed592d006a533e3778310230e43",
+    "use": "原始结构化取数证据；周期与来源见文件内容"
+  },
+  {
+    "file": "sources/nint-dy-granularity.json",
+    "sha256": "7104a8985cf8ceff671b61ba778e076ca45d7972f5ab0dc494aa9a0d84787478",
+    "use": "原始结构化取数证据；周期与来源见文件内容"
+  },
+  {
+    "file": "sources/nint-dy-week-test.json",
+    "sha256": "2468b03ae74dbcefbf99a01a5fb89bdfb395d872b24a62a6a1bc32cd4b0f0ac4",
+    "use": "原始结构化取数证据；周期与来源见文件内容"
+  },
+  {
+    "file": "sources/nint-ong-daily-20261010.json",
+    "sha256": "6fc75624c3617f77bdd3d13c69fbc9b111c1bfff31b84a32966379de950c7428",
+    "use": "原始结构化取数证据；周期与来源见文件内容"
+  },
+  {
+    "file": "sources/sycm-core-24months-20261010.json",
+    "sha256": "b72b22a69b518e4ab8b1b36c8b0d1840dbfa1247e353c698f3036108ec3d99ee",
+    "use": "原始结构化取数证据；周期与来源见文件内容"
+  },
+  {
+    "file": "sources/sycm-flow-24months-20261010.json",
+    "sha256": "0bce055fccfbf489b8d5cd4608cf3fad5dcef1847844fbc895e31166461edc6e",
+    "use": "原始结构化取数证据；周期与来源见文件内容"
+  },
+  {
+    "file": "sources/sycm-ong-ad-overview-20261009.json",
+    "sha256": "c4f873936bee1d3082423e4e74761f1682b9e9344f3b15dfb182ae4dcd407956",
+    "use": "原始结构化取数证据；周期与来源见文件内容"
+  },
+  {
+    "file": "sources/sycm-ong-ad-scenes-20261009.json",
+    "sha256": "c510d314296c9592a128917a9c1894f6f49da739108d318188447ba9ceddcea6",
+    "use": "原始结构化取数证据；周期与来源见文件内容"
+  },
+  {
+    "file": "sources/sycm-ong-daily-20261008.json",
+    "sha256": "314c1a9c5907b0d716417b135f0c4fee641e596605cd0108b66309e04b76d64a",
+    "use": "原始结构化取数证据；周期与来源见文件内容"
+  },
+  {
+    "file": "sources/sycm-ong-daily-20261009.json",
+    "sha256": "dc46658dc6f10653eca0818f1372bb7c1f15ff98fefd572dbb61b4665e63e4f7",
+    "use": "原始结构化取数证据；周期与来源见文件内容"
+  },
+  {
+    "file": "sources/sycm-ong-trend-20260910-20261009.json",
+    "sha256": "700f039bec7754ce3bbe3cb71b32acc5dc0cfec2f3606f088390cdff1a2c9880",
+    "use": "原始结构化取数证据；周期与来源见文件内容"
+  },
+  {
+    "file": "hue-history24-base.json",
+    "sha256": "6177fc94be4ba166f7da96b2d2c40674f065bd11cf2923ee4341b10b9305cbbc",
+    "use": "2026-10-10 实取近24个月历史；具体口径见文件"
+  },
+  {
+    "file": "hue-history24-base.csv",
+    "sha256": "6ad337b089e1906d997c8a3c92c6d3ee2c3ddc151958fae6e8aeb63803c37ba1",
+    "use": "2026-10-10 实取近24个月历史；具体口径见文件"
+  },
+  {
+    "file": "hue-history24-base.sql",
+    "sha256": "5a002c39d524430a0cf5ece920f529f12952496caf60699aae76832419a32125",
+    "use": "2026-10-10 实取近24个月历史；具体口径见文件"
+  },
+  {
+    "file": "nint-ali-history24.json",
+    "sha256": "f014c55b4f72f1646336770158378b87ede2ac4dd7b98a4652531f69658ffde1",
+    "use": "2026-10-10 实取近24个月历史；具体口径见文件"
+  },
+  {
+    "file": "nint-ali-history24.csv",
+    "sha256": "79f340e2b45c066479ef35d124a96009f72adaf03bb1d6d6d419fb499cd96bad",
+    "use": "2026-10-10 实取近24个月历史；具体口径见文件"
+  },
+  {
+    "file": "nint-dy-history24.json",
+    "sha256": "4e5f60b1b8ed6e402c84cc48bfc171660f733fd74f0a083ab9a7709d93f2f42b",
+    "use": "2026-10-10 实取抖音行业24个月；退货后版"
+  },
+  {
+    "file": "nint-dy-history24.csv",
+    "sha256": "17e637a29910fd379a657cdbac3dd56cb46097e7b4479586033aebfc3d013c4e",
+    "use": "2026-10-10 实取抖音行业24个月；退货后版"
+  },
+  {
+    "file": "compass-products-20261009.json",
+    "sha256": "891c23fdf6a52f71e27ebfaae0f6681406a6d31c17fdf919f0e80b28cff380e1",
+    "use": "罗盘官方旗舰店2026-10-09商品全133条；金额单位从分转元"
+  },
+  {
+    "file": "compass-products-20261009.csv",
+    "sha256": "dd3c6c451d3de717439bdc82dedd34ee8999ae76fc091ca666ce551073ab954e",
+    "use": "罗盘官方旗舰店2026-10-09商品全133条；金额单位从分转元"
+  },
+  {
+    "file": "competitor-registry-20261013.json",
+    "sha256": "2c81eba996ae869605facc380cd618141cdd731b3f2a311f81e9725b050f8994",
+    "use": "用户指定替换名单；6个主品牌、19个竞品、38个入口"
+  },
+  {
+    "file": "competitor-capture-audit-20261013.json",
+    "sha256": "4b0dfb813684db7bcb9939e3796d35a5c1ce86be1174c9e69659d1e57d3b8730",
+    "use": "本次访问尝试与环境阻碍，非采集成功记录"
+  }
+]

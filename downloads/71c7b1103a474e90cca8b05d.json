@@ -1,0 +1,383 @@
+{
+  "version": 1,
+  "notes": [
+    "金额为人民币元；比率用小数，如0.05表示5%。",
+    "空值使用null，0只用于源表明确为零。",
+    "日期使用YYYY-MM-DD，时间戳包含+08:00。",
+    "同一店铺、日期、来源、口径才能比较；广告ROI必须提供名称、窗口和账户。",
+    "导入仅替换选定店铺/竞品的一个数据集合，保留备份；不直接读取后台。",
+    "店铺初次输入只需shop_url；平台/店名/ID由取数助手核对补齐。invalid商品核验需时间、原因、证据，移出当前展示但保留历史。"
+  ],
+  "collections": {
+    "daily_operations": {
+      "columns": [
+        "date",
+        "source",
+        "definition",
+        "sales",
+        "refunds",
+        "visitors",
+        "buyers",
+        "conversion",
+        "aov"
+      ],
+      "required": [
+        "date",
+        "source",
+        "definition"
+      ],
+      "numeric": [
+        "sales",
+        "refunds",
+        "visitors",
+        "buyers",
+        "conversion",
+        "aov"
+      ]
+    },
+    "traffic": {
+      "columns": [
+        "date",
+        "source_l1",
+        "source_l2",
+        "source_l3",
+        "visitors",
+        "buyers",
+        "sales",
+        "conversion",
+        "visitors_delta",
+        "source",
+        "definition"
+      ],
+      "required": [
+        "date",
+        "source_l1",
+        "source",
+        "definition"
+      ],
+      "numeric": [
+        "visitors",
+        "buyers",
+        "sales",
+        "conversion",
+        "visitors_delta"
+      ]
+    },
+    "products": {
+      "columns": [
+        "date",
+        "product",
+        "product_id",
+        "url",
+        "sales",
+        "net_sales",
+        "buyers",
+        "conversion",
+        "aov",
+        "sales_delta",
+        "contribution",
+        "source",
+        "definition"
+      ],
+      "required": [
+        "date",
+        "product_id",
+        "product",
+        "source",
+        "definition"
+      ],
+      "numeric": [
+        "sales",
+        "net_sales",
+        "buyers",
+        "conversion",
+        "aov",
+        "sales_delta",
+        "contribution"
+      ]
+    },
+    "product_traffic": {
+      "columns": [
+        "date",
+        "product",
+        "source",
+        "visitors",
+        "sales",
+        "conversion",
+        "delta",
+        "definition"
+      ],
+      "required": [
+        "date",
+        "product",
+        "source",
+        "definition"
+      ],
+      "numeric": [
+        "visitors",
+        "sales",
+        "conversion",
+        "delta"
+      ]
+    },
+    "ads": {
+      "columns": [
+        "date",
+        "account",
+        "impressions",
+        "clicks",
+        "spend",
+        "attributed_orders",
+        "attributed_sales",
+        "roi",
+        "roi_name",
+        "attribution_window",
+        "source",
+        "definition"
+      ],
+      "required": [
+        "date",
+        "account",
+        "source",
+        "definition",
+        "roi_name",
+        "attribution_window"
+      ],
+      "numeric": [
+        "impressions",
+        "clicks",
+        "spend",
+        "attributed_orders",
+        "attributed_sales",
+        "roi"
+      ]
+    },
+    "product_ads": {
+      "columns": [
+        "date",
+        "product",
+        "plan",
+        "spend",
+        "attributed_sales",
+        "roi",
+        "source",
+        "attribution_window",
+        "definition"
+      ],
+      "required": [
+        "date",
+        "product",
+        "plan",
+        "source",
+        "definition",
+        "attribution_window"
+      ],
+      "numeric": [
+        "spend",
+        "attributed_sales",
+        "roi"
+      ]
+    },
+    "targets": {
+      "columns": [
+        "date",
+        "target",
+        "achievement",
+        "time_progress",
+        "yoy",
+        "mom",
+        "source",
+        "definition"
+      ],
+      "required": [
+        "date",
+        "source",
+        "definition"
+      ],
+      "numeric": [
+        "target",
+        "achievement",
+        "time_progress",
+        "yoy",
+        "mom"
+      ]
+    },
+    "events": {
+      "columns": [
+        "date",
+        "channel",
+        "event",
+        "headline",
+        "entity",
+        "change",
+        "url",
+        "primary_url",
+        "confidence",
+        "source",
+        "definition"
+      ],
+      "required": [
+        "date",
+        "source",
+        "definition"
+      ],
+      "numeric": []
+    },
+    "shops": {
+      "columns": [
+        "platform",
+        "shop_name",
+        "shop_id",
+        "shop_url",
+        "status",
+        "source",
+        "checked_at"
+      ],
+      "required": [
+        "shop_url"
+      ],
+      "numeric": []
+    },
+    "offers": {
+      "columns": [
+        "date",
+        "url",
+        "sku",
+        "price_before",
+        "price_after",
+        "price_delta",
+        "gift_change",
+        "comparison_window",
+        "evidence",
+        "source",
+        "definition"
+      ],
+      "required": [
+        "date",
+        "url",
+        "sku",
+        "comparison_window",
+        "source",
+        "definition"
+      ],
+      "numeric": [
+        "price_before",
+        "price_after",
+        "price_delta"
+      ]
+    },
+    "rankings": {
+      "columns": [
+        "date",
+        "category",
+        "rank",
+        "rank_delta",
+        "visitor_band",
+        "buyer_band",
+        "sales_definition",
+        "source"
+      ],
+      "required": [
+        "date",
+        "category",
+        "source",
+        "sales_definition"
+      ],
+      "numeric": [
+        "rank",
+        "rank_delta"
+      ]
+    },
+    "social": {
+      "columns": [
+        "period",
+        "platform",
+        "engagement",
+        "video_url",
+        "estimated_spend",
+        "business",
+        "scope",
+        "source",
+        "definition"
+      ],
+      "required": [
+        "period",
+        "platform",
+        "source",
+        "definition",
+        "scope"
+      ],
+      "numeric": [
+        "estimated_spend"
+      ]
+    },
+    "daily_sales": {
+      "columns": [
+        "date",
+        "platform",
+        "shop_name",
+        "sales",
+        "units",
+        "sales_dod",
+        "source",
+        "definition",
+        "status"
+      ],
+      "required": [
+        "date",
+        "platform",
+        "shop_name",
+        "source",
+        "definition",
+        "status"
+      ],
+      "numeric": [
+        "sales",
+        "units",
+        "sales_dod"
+      ]
+    },
+    "product_watchlist": {
+      "columns": [
+        "product_id",
+        "product",
+        "url",
+        "shop_url",
+        "sku",
+        "link_status",
+        "checked_at",
+        "reason",
+        "evidence_url",
+        "source"
+      ],
+      "required": [
+        "product_id",
+        "product",
+        "url",
+        "link_status",
+        "source"
+      ],
+      "numeric": []
+    },
+    "historical_records": {
+      "columns": [
+        "period",
+        "metric",
+        "value",
+        "source",
+        "definition",
+        "status"
+      ],
+      "required": [
+        "period",
+        "metric",
+        "source",
+        "definition",
+        "status"
+      ],
+      "numeric": [
+        "value"
+      ]
+    }
+  }
+}

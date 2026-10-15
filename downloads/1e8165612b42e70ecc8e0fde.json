@@ -1,0 +1,125 @@
+{
+  "competitor_id": "ilso",
+  "platform": "天猫",
+  "shop_name": "ilso旗舰店",
+  "shop_id": "482040972",
+  "shop_url": "https://ilso.tmall.com",
+  "captured_at": "2026-10-14T09:52:00+08:00",
+  "capture_status": "partial_capture",
+  "scope": "已点击销量并验证选中状态，前5条逐款进入详情、核验选中规格；另采毛孔收缩精华样本。记录当前买家账号展示价，不代表所有账号通用价格。",
+  "identity_evidence": "用户提供ilso.tmall.com首页→商品800402756760详情→ilso旗舰店链接shop482040972.taobao.com；国内天猫店标识。",
+  "products": [
+    {
+      "rank": 1,
+      "product_id": "800402756760",
+      "product_url": "https://detail.tmall.com/item.htm?id=800402756760",
+      "title": "ilso一苏黑头导出液韩国进口黑头水控油去黑头粉刺全脸深层清洁",
+      "sku": "【敷出黑白头】黑头导出液150g+湿敷棉",
+      "selected_sku_display_price": 122.1,
+      "price_label": "平台加补后（当前买家账号展示）",
+      "original_price": 162,
+      "list_display_price": 122.1,
+      "sold_display": "10万+人付款",
+      "bundle_contents_raw": "导出液150g+湿敷棉，所选规格未列棉数量；主图写省量湿敷棉50片/盒×1",
+      "gift_copy": "主图另有全店单笔实付满189、1元锁定特权、双11加赠及会员加赠区域；适用日期、会员与赠品档位未完整展开，不视为本SKU必得赠品",
+      "coupon_conditions": "详情显示超级立减33元、6元红包及其他加补；未结算，不把各项简单相减后当最终付款价",
+      "link_status": "active",
+      "evidence": [
+        "tmall-sales-sorted.png",
+        "tmall-r1-selected.png",
+        "tmall-r1-price-gifts.png"
+      ]
+    },
+    {
+      "rank": 2,
+      "product_id": "891486899504",
+      "product_url": "https://detail.tmall.com/item.htm?id=891486899504",
+      "title": "【U先试用】ilso一苏黑头导出液旅行装5g去黑头粉刺毛孔温和清洁",
+      "sku": "5g 黑头导出液+棉签10根+品牌定制袋",
+      "selected_sku_display_price": 6.9,
+      "price_label": "详情标价",
+      "list_display_price": 6.77,
+      "sold_display": "6万+人付款",
+      "bundle_contents_raw": "导出液5g、棉签10根、品牌定制袋；袋数量未注明",
+      "gift_copy": null,
+      "gift_reason": "已核实套装内含；未看到独立额外赠品承诺，不标无赠品",
+      "coupon_conditions": "有货、限购1件；按钮为加入会员并领取，未加入会员或领取。列表6.77元含淘金币抵0.13元，与详情6.9元分列。",
+      "link_status": "active",
+      "evidence": [
+        "tmall-891486899504-selected.png",
+        "tmall-891486899504-state.txt"
+      ]
+    },
+    {
+      "rank": 3,
+      "product_id": "819406465518",
+      "product_url": "https://detail.tmall.com/item.htm?id=819406465518",
+      "title": "ilso一苏韩国进口黑头导出精华液去黑头水美容院毛孔清洁控油",
+      "sku": "【铲去黑白头】黑头导出液150g+湿敷棉+黑头铲+热敷巾",
+      "selected_sku_display_price": 199,
+      "price_label": "详情标价，优惠标签另列；非最终实付",
+      "list_display_price": 152.1,
+      "sold_display": "3万+人付款",
+      "bundle_contents_raw": "导出液150g、湿敷棉、黑头铲、热敷巾；附件数量未由规格行明确",
+      "gift_copy": "主图有满189、双11及会员加赠分区；具体档位条件未完全确认",
+      "coupon_conditions": "详情显示超级立减40元、6元红包；列表补贴后152.1元。详情并未直接显示相同券后价，不能当统一成交价。",
+      "link_status": "active",
+      "evidence": [
+        "tmall-819406465518-selected.png",
+        "tmall-819406465518-selected.txt"
+      ]
+    },
+    {
+      "rank": 4,
+      "product_id": "921060084193",
+      "product_url": "https://detail.tmall.com/item.htm?id=921060084193",
+      "title": "【便携装-导出液50g】ilso一苏去黑头导出液去黑头水全脸清洁女",
+      "sku": "50g 1瓶【便携装】",
+      "selected_sku_display_price": 200,
+      "price_label": "详情标价，优惠标签另列；非最终实付",
+      "list_display_price": 64.65,
+      "sold_display": "2万+人付款",
+      "bundle_contents_raw": "主图：黑头导出液50g+长条湿敷棉50片/盒+棉签10支",
+      "gift_copy": null,
+      "gift_reason": "主图套餐内含已记录；未取得独立额外赠品条件",
+      "coupon_conditions": "详情显示限时补贴134.45元、淘金币已抵0.9元；列表补贴后64.65元。价格和优惠分列，不将200元作为最终到手价。",
+      "link_status": "active",
+      "evidence": [
+        "tmall-921060084193-selected.png",
+        "tmall-921060084193-detail.md"
+      ]
+    },
+    {
+      "rank": 5,
+      "product_id": "716245944952",
+      "product_url": "https://detail.tmall.com/item.htm?id=716245944952",
+      "title": "ilso一苏人体工学黑头铲手动去黑头粉刺脸部毛孔清洁器去黑头神器",
+      "sku": "黑头铲 (清洁工具)",
+      "selected_sku_display_price": 62,
+      "price_label": "详情标价，优惠标签另列；非最终实付",
+      "list_display_price": 33.1,
+      "sold_display": "2万+人付款",
+      "bundle_contents_raw": "黑头铲清洁工具；数量未由规格名称明确",
+      "gift_copy": null,
+      "gift_reason": "当前主图及规格没有可确认的独立赠品内容，保留未知",
+      "coupon_conditions": "详情显示超级立减13元、淘金币已抵0.9元；主图会员专属10元券，未入会或领券；列表33.1元不能据此认定所有人可得。",
+      "link_status": "active",
+      "evidence": [
+        "tmall-716245944952-selected.png",
+        "tmall-716245944952-selected.txt"
+      ]
+    }
+  ],
+  "missing": [
+    "部分活动赠品资格和适用日期仍未完整核实",
+    "首次稳定商品ID与SKU基线，尚无第二个可比时点",
+    "列表补贴价与详情标价不一致，未进行下单结算验证"
+  ],
+  "evidence": [
+    "tmall-sales-sorted-state.txt",
+    "tmall-sales-sorted.md",
+    "tmall-sales-sorted.png"
+  ],
+  "sold_scope": "页面累计付款人次标签，不作日销量或日销售额",
+  "comparison": null
+}

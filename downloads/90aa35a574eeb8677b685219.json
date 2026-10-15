@@ -1,0 +1,45 @@
+{
+  "source": "抖音App → ILSO官方旗舰店 → 联名黑头导出液详情 → 规格面板",
+  "captured_at": "2026-10-13T17:45:00+08:00",
+  "capture_status": "partial_capture",
+  "shop_name": "ILSO官方旗舰店",
+  "scope": "重取1款商品详情及选中规格，非销量TOP5",
+  "products": [
+    {
+      "title": "【联名上线】ILSO一苏蜡笔小新联名黑头导出液控油去黑头清洁黑头水",
+      "product_id": null,
+      "product_url": null,
+      "sku": "联名导出液150g*1盒(含棉*1+随机盲盒铲*1+发带)",
+      "selected_sku_display_price": 129,
+      "price_label": "实付价",
+      "price_status": "规格面板展示价，未下单或结算",
+      "alternative_price": 120,
+      "alternative_price_condition": "详情底部显示抖音商城App专享；未切换App验证资格，不作为本SKU已核验实付价",
+      "sold_display": "已售10万+",
+      "sold_scope": "商品累计展示，非当日销量",
+      "bundle_contents_raw": "150g导出液1盒，含棉1份、随机盲盒铲1个、发带（数量未注明）",
+      "extra_gifts": null,
+      "extra_gifts_reason": "规格确认的是套装内含，不能确定是否另有下单加赠",
+      "coupon_conditions": null,
+      "coupon_reason": "本次未取得独立优惠券资格及门槛",
+      "change_vs_previous": null,
+      "change_reason": "首份该选中SKU基线；旧卡片未核验相同产品ID，不计算涨跌"
+    }
+  ],
+  "missing": [
+    "完整销量TOP5",
+    "商品ID／可点击原始商品链接",
+    "独立优惠券资格",
+    "额外赠品资格及发带数量",
+    "第二次同SKU可比快照"
+  ],
+  "evidence": [
+    "ilso_detail_1735.png",
+    "ilso_offer_1735.xml",
+    "ilso_resume_sku.png",
+    "ilso_resume_sku.xml",
+    "ilso_resume_now.png",
+    "ilso_after_scroll.png",
+    "patrol_ilso_shop_1728.xml"
+  ]
+}

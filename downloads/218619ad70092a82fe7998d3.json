@@ -1,0 +1,100 @@
+{
+  "competitor_id": "torriden",
+  "platform": "天猫",
+  "shop_name": "Torriden海外旗舰店",
+  "captured_at": "2026-10-14（原始快照未记录具体时分）",
+  "capture_status": "partial_capture",
+  "scope": "既有销量排序前5款详情及选中SKU截图，本次完成结构化核读；不是本轮实时重新取价",
+  "products": [
+    {
+      "rank": 1,
+      "product_id": "670812167688",
+      "product_url": "https://detail.tmall.hk/hk/item.htm?id=670812167688&skuId=4825252585578",
+      "title": "韩国Torriden桃瑞丹润神经酰胺唇膏精华液滋润保湿防干裂护理正品",
+      "sku": "11ml",
+      "selected_sku_display_price": 68,
+      "price_label": "详情标价；优惠标签另列，未结算，不是统一到手价",
+      "coupon_conditions": "超级立减13元；淘金币已抵0.68元；红包及淘金币资格按当前买家账号展示，未领取或下单。",
+      "gift_copy": null,
+      "gift_reason": "所选规格截图未取得独立赠品承诺，不标无赠品",
+      "link_status": "active",
+      "evidence": [
+        "torriden-r1-selected.png",
+        "torriden-r1-state.txt"
+      ]
+    },
+    {
+      "rank": 2,
+      "product_id": "735770423563",
+      "product_url": "https://detail.tmall.hk/hk/item.htm?id=735770423563&skuId=6135077610158",
+      "title": "【韩国进口棉片】韩国torriden桃瑞丹5重玻尿酸爽肤棉片改善肌理",
+      "sku": "80片 160ml",
+      "selected_sku_display_price": 162,
+      "price_label": "详情标价；优惠标签另列，未结算，不是统一到手价",
+      "coupon_conditions": "超级立减23元；7元红包；红包及淘金币资格按当前买家账号展示，未领取或下单。",
+      "gift_copy": null,
+      "gift_reason": "所选规格截图未取得独立赠品承诺，不标无赠品",
+      "link_status": "active",
+      "evidence": [
+        "torriden-r2-selected.png",
+        "torriden-r2-state.txt"
+      ]
+    },
+    {
+      "rank": 3,
+      "product_id": "670458218462",
+      "product_url": "https://detail.tmall.hk/hk/item.htm?id=670458218462",
+      "title": "商品详情",
+      "sku": "10片/盒 升级版",
+      "selected_sku_display_price": 162,
+      "price_label": "详情标价；优惠标签另列，未结算，不是统一到手价",
+      "coupon_conditions": "超级立减23元；7元红包；红包及淘金币资格按当前买家账号展示，未领取或下单。",
+      "gift_copy": null,
+      "gift_reason": "所选规格截图未取得独立赠品承诺，不标无赠品",
+      "link_status": "active",
+      "evidence": [
+        "torriden-r3-selected.png",
+        "torriden-r3-state.txt"
+      ]
+    },
+    {
+      "rank": 4,
+      "product_id": "669731536039",
+      "product_url": "https://detail.tmall.hk/hk/item.htm?id=669731536039",
+      "title": "商品详情",
+      "sku": "100ml 升级版",
+      "selected_sku_display_price": 174,
+      "price_label": "详情标价；优惠标签另列，未结算，不是统一到手价",
+      "coupon_conditions": "超级立减25元；7元红包；红包及淘金币资格按当前买家账号展示，未领取或下单。",
+      "gift_copy": "主图写买1赠5、买2加赠随机面膜1片、会员单笔满199随机小样1个；赠品对应SKU及完整活动条件待核实",
+      "gift_reason": null,
+      "link_status": "active",
+      "evidence": [
+        "torriden-r4-selected.png",
+        "torriden-r4-state.txt"
+      ]
+    },
+    {
+      "rank": 5,
+      "product_id": "670115437178",
+      "product_url": "https://detail.tmall.hk/hk/item.htm?id=670115437178&skuId=4993788638602",
+      "title": "【韩国进口精华】韩国Torriden桃瑞丹精华液安瓶玻尿酸补水保湿液",
+      "sku": "50ml 新升级",
+      "selected_sku_display_price": 162,
+      "price_label": "详情标价；优惠标签另列，未结算，不是统一到手价",
+      "coupon_conditions": "超级立减23元；7元红包；红包及淘金币资格按当前买家账号展示，未领取或下单。",
+      "gift_copy": null,
+      "gift_reason": "所选规格截图未取得独立赠品承诺，不标无赠品",
+      "link_status": "active",
+      "evidence": [
+        "torriden-r5-selected.png",
+        "torriden-r5-state.txt"
+      ]
+    }
+  ],
+  "missing": [
+    "完整赠品档位与资格",
+    "第二时点同SKU、同优惠条件快照"
+  ],
+  "identity_evidence": "五款详情截图均显示Torriden海外旗舰店、天猫国际标识；店铺来源和详情链接见原始采集文件"
+}

@@ -1,0 +1,34 @@
+{
+  "source": "抖音App → ILSO官方旗舰店 → 商品 → 销量排序",
+  "captured_at": "2026-10-13T10:29:00+08:00",
+  "capture_status": "partial_verified",
+  "scope": "当前可见前两条商品卡片；非完整TOP5；商品链接及SKU未核验",
+  "products": [
+    {
+      "title": "ILSO一苏黑头导出液控油去黑头毛孔深层清洁精华护肤黑头水女正品",
+      "display_price": 129,
+      "sold_display": "已售70万+",
+      "sku": null,
+      "product_url": null,
+      "gift": null
+    },
+    {
+      "title": "ILSO一苏黑头导出液控油去黑头深层清洁毛孔护肤黑头水正品150g",
+      "display_price": 129,
+      "sold_display": "已售20万+",
+      "sku": null,
+      "product_url": null,
+      "gift": null
+    }
+  ],
+  "limits": [
+    "展示价不是已核验的同SKU券后实付价",
+    "累计已售不是日销量；不用于计算日销售额",
+    "UI树未返回已售节点，已售字段通过同屏截图人工核对",
+    "商品卡片标签另有销量60万+，与主已售展示口径不同，不合并"
+  ],
+  "evidence": [
+    "ilso-douyin-sales-20261013.xml",
+    "ilso-douyin-sales-20261013.png"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "source": "抖音App → PLANNER珀兰娜官方旗舰店 → 商品 → 销量排序",
+  "captured_at": "2026-10-13T10:52:00+08:00",
+  "capture_status": "partial_verified",
+  "scope": "当前可见前两条商品卡片；非完整TOP5；商品链接与SKU未核验",
+  "products": [
+    {
+      "title": "【明星同款】PLANNER珀兰娜妆前乳控油隐毛孔打底4.0持妆隔离贴贴霜",
+      "display_price": 69.0,
+      "sold_display": "已售100万+",
+      "sku": null,
+      "product_url": null,
+      "gift": null,
+      "promotion_label": "送赠品（规格未核实）"
+    },
+    {
+      "title": "【明星同款】PLANNER珀兰娜妆前乳隐毛孔打底4.0控油持妆隔离贴贴霜",
+      "display_price": 69.0,
+      "sold_display": "已售100万+",
+      "sku": null,
+      "product_url": null,
+      "gift": null,
+      "promotion_label": null
+    }
+  ],
+  "limits": [
+    "展示价格尚未逐SKU核验，不标为券后实付价",
+    "累计已售为页面区间标签，非日销量，不计算销售额",
+    "已售未包含在UI树文本内，已通过同屏截图核对",
+    "不同商品卡片可能存在同款，不按唯一商品汇总"
+  ],
+  "evidence": [
+    "planner-sales-20261013.xml",
+    "planner-sales-20261013.png"
+  ]
+}

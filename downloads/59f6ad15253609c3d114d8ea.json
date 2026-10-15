@@ -1,0 +1,128 @@
+{
+  "competitor_id": "ilso",
+  "platform": "抖音",
+  "shop_name": "ILSO官方旗舰店",
+  "captured_at": "2026-10-14T09:42:10+08:00",
+  "capture_status": "partial_capture",
+  "scope": "销量排序前5条：逐款进入详情，4款有可选SKU，1款显示抢光；截图人工核读",
+  "extraction_method": "页面截图逐张核验；本次UI树导出出现139/135错误，未使用失败导出的旧XML",
+  "products": [
+    {
+      "rank": 1,
+      "title": "ILSO一苏黑头导出液控油去黑头毛孔深层清洁精华护肤黑头水女正品",
+      "product_id": null,
+      "product_url": null,
+      "link_status": "active",
+      "sold_display": "已售70万+",
+      "sku": "150g（湿敷棉50片+黑头铲+热敷巾）",
+      "selected_sku_display_price": 129,
+      "price_label": "实付价（规格面板展示，未结算）",
+      "alternative_price": 125,
+      "alternative_price_condition": "抖音商城App专享，未验证资格",
+      "bundle_contents_raw": "150g导出液；湿敷棉50片、黑头铲、热敷巾；铲及巾数量未在所选规格明确",
+      "gift_copy": "主图：额外加赠热敷巾；下单即赠黑头铲+省量湿敷棉50片/盒",
+      "evidence": [
+        "ilso_list_return.png",
+        "ilso_rank1_detail.png",
+        "ilso_rank1_sku_visual.png"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "ILSO一苏黑头导出液控油去黑头深层清洁毛孔护肤黑头水正品150g",
+      "product_id": null,
+      "product_url": null,
+      "link_status": "active",
+      "sold_display": "已售20万+",
+      "sku": "150g*1瓶(黑头铲*1+湿敷棉*1+热敷巾*1)",
+      "selected_sku_display_price": 129,
+      "price_label": "实付价（规格面板展示，未结算）",
+      "alternative_price": 125,
+      "alternative_price_condition": "抖音商城App专享，未验证资格",
+      "bundle_contents_raw": "导出液150g×1瓶、黑头铲×1、湿敷棉×1、热敷巾×1；主图湿敷棉为50片",
+      "gift_copy": "主图：买1到手3件；额外加赠热敷巾",
+      "evidence": [
+        "ilso_list_return.png",
+        "ilso_rank2_detail.png",
+        "ilso_rank2_sku.png"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "ILSO一苏黑头导出液清洁温和去黑头收敛毛孔不刺激黑头水",
+      "product_id": null,
+      "product_url": null,
+      "link_status": "sold_out",
+      "sold_display": "已售20万+",
+      "list_display_price": 129,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "gift_copy": null,
+      "unavailable_reason": "进入详情显示商品已抢光，可以看看其他商品；无可选规格，不将列表价格当当前可购买价，缺货不判下架",
+      "evidence": [
+        "ilso_list_r3.png",
+        "ilso_rank3_detail.png"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "ILSO一苏黑头导出液控油去黑头深层清洁收敛毛孔黑头水正品",
+      "product_id": null,
+      "product_url": null,
+      "link_status": "active",
+      "sold_display": "已售20万+",
+      "sku": "100g*1瓶(黑头铲*1+湿敷棉*1)",
+      "selected_sku_display_price": 99,
+      "price_label": "实付价（规格面板展示，未结算）",
+      "alternative_price": 95,
+      "alternative_price_condition": "初始99元规格详情显示抖音商城App专享，未验证资格",
+      "bundle_contents_raw": "导出液100g×1瓶、黑头铲×1、湿敷棉×1；此规格未列热敷巾，不推断赠送",
+      "additional_verified_sku": {
+        "sku": "150g*1瓶(黑头铲*1+湿敷棉*1+热敷巾*1)",
+        "price": 129,
+        "price_label": "实付价（规格面板展示）"
+      },
+      "gift_copy": "主图提到额外加赠热敷巾，150g规格明确列入；不将该图宣传套用100g最低价规格",
+      "evidence": [
+        "ilso_before_r5_list.png",
+        "ilso_rank4_detail.png",
+        "ilso_rank4_sku.png",
+        "ilso_rank4_sku150.png"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "【爆款推荐】黑头导出液+闭口水套组控油去黑头毛孔清洁zb",
+      "product_id": null,
+      "product_url": "https://v.douyin.com/bifYfRIpP68/",
+      "link_status": "active",
+      "sold_display": "已售10万+",
+      "list_display_price": 139,
+      "sku": "导出液三件套100g*1瓶+闭口水三件套100g*1瓶",
+      "selected_sku_display_price": 198,
+      "price_label": "实付价（规格面板展示，未结算）",
+      "alternative_price": 194,
+      "alternative_price_condition": "选中198元组合后详情底部显示抖音商城App专享，未验证资格",
+      "bundle_contents_raw": "导出液三件套100g×1瓶+闭口水三件套100g×1瓶；规格行未展开三件套各附件",
+      "gift_copy": "主图：买1到手9件；下单即赠联名款凉感面膜2片+可拉伸湿敷棉+黑头铲+省量湿敷棉1盒+替换喷头+冷敷仪。未取得独立活动细则，不能确认所有规格均适用",
+      "evidence": [
+        "ilso_before_r5_list.png",
+        "ilso_rank5_detail.png",
+        "ilso_rank5_sku139.png",
+        "ilso_rank5_sku198.png",
+        "ilso_r5_menu.png"
+      ],
+      "product_url_source": "用户2026-10-14从抖音分享复制；用户提供标题与已采集第5款一致，自动跳转未核验",
+      "product_url_verification": "user_provided_not_independently_opened"
+    }
+  ],
+  "missing": [
+    "其余4款可点击链接及全部5款稳定商品ID未取得；第5款短链接由用户提供，跳转尚未独立核验",
+    "部分赠品独立活动门槛／规格适用条件未确认",
+    "尚无通过商品ID核验的两个时点可比基线"
+  ],
+  "blocker": "09:42尝试打开商品链接选项时弹出验证，显示验证过于频繁，请稍后重试[5009][502]，已停止App操作。未完成验证，未换路径绕过。",
+  "blocker_evidence": "ilso_r5_link_options.png",
+  "comparison": "第5款与昨天同名同规格均显示198元，但未取得稳定商品ID，不作为已验证价格变化结论。累计已售不是日销量。",
+  "latest_access_note": "2026-10-14用户反馈分享复制成功；当前App商品详情无验证弹窗。自动打开用户短链接命令被工具策略拦截，未执行，未尝试替代路径绕过。"
+}
